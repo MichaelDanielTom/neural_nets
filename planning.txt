@@ -1,0 +1,19 @@
+Steps:
+	- Implement neural network object and node object with hard threshold
+		- NeuralNetwork and NeuralNetworkNode objects
+		- allow json initialization of neuralnet?
+		- store all nodes in NeuralNetwork as list
+		- Where to save connections?
+			- on each node
+			- separate connection table
+
+		
+	
+
+
+	- sigmoid activation functions
+	- simple perceptron learning
+	- learning
+		- single layer feed-forward neural network
+		- multi layer feed-forward
+		- multilayer back propogation
