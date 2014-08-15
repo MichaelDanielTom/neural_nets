@@ -5,8 +5,8 @@ T1: Neural network object and node object with hard threshold
 		- allow json initialization of neuralnet?
 		- store all nodes in NeuralNetwork as list
 		- Where to save connections?
-			- on each node
-			- separate connection table
+			- on each node NO
+			- separate connection table YES
 
 T2: Sigmoid activation functions
 	- simple perceptron learning
